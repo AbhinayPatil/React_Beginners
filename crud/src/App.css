@@ -1,0 +1,17 @@
+.btn-container{
+    display: flex;
+    gap: 10px;
+}
+
+li{
+    width: 20vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+}
+.btn{
+    border: none;
+    height: max-content;
+    background-color: gray;
+}

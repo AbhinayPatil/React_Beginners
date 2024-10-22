@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.flex{
+    display: flex;
+    padding: 2px 10px;
+    align-items: center;
+}
